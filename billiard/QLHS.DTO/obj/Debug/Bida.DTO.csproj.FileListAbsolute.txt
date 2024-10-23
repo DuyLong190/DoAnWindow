@@ -18,3 +18,11 @@ C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bi
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.DTO.dll.config
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.DTO.dll
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.DTO.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb

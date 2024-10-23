@@ -20,3 +20,11 @@ C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.DAO\obj\Debug\Bi
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.DAO\obj\Debug\Bida.DAO.csproj.Up2Date
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.DAO\obj\Debug\Bida.DAO.dll
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.DAO\obj\Debug\Bida.DAO.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.DAO.dll.config
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.DAO.dll
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.DAO.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.DAO\obj\Debug\Bida.DAO.csproj.AssemblyReference.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.DAO\obj\Debug\Bida.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.DAO\obj\Debug\Bida.DAO.csproj.Up2Date
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.DAO\obj\Debug\Bida.DAO.dll
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.DAO\obj\Debug\Bida.DAO.pdb

@@ -12,7 +12,7 @@ namespace Bida.DTO
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public BAN()
         {
-            BIENLAIs = new HashSet<BIENLAI>();
+            BIENLAI = new HashSet<BIENLAI>();
         }
 
         [Key]
@@ -33,7 +33,7 @@ namespace Bida.DTO
         public virtual KHACHHANG KHACHHANG { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<BIENLAI> BIENLAIs { get; set; }
+        public virtual ICollection<BIENLAI> BIENLAI { get; set; }
         public BAN(bool? loaiBan, int? khuVuc, bool? tinhTrang, DateTime? gioBD, DateTime? gioKT)
         {
             LOAIBAN = loaiBan;
@@ -41,7 +41,7 @@ namespace Bida.DTO
             TINHTRANG = tinhTrang;
             GIOBD = gioBD;
             GIOKT = gioKT;
-            BIENLAIs = new HashSet<BIENLAI>();
+            BIENLAI = new HashSet<BIENLAI>();
         }
     }
 }

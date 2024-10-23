@@ -12,7 +12,7 @@ namespace Bida.DTO
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public NHANVIEN()
         {
-            BIENLAIs = new HashSet<BIENLAI>();
+            BIENLAI = new HashSet<BIENLAI>();
         }
 
         [Key]
@@ -29,7 +29,7 @@ namespace Bida.DTO
         public string PASSNV { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<BIENLAI> BIENLAIs { get; set; }
+        public virtual ICollection<BIENLAI> BIENLAI { get; set; }
 
         public virtual QUANLI QUANLI { get; set; }
     }

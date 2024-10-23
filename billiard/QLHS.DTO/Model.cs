@@ -8,21 +8,21 @@ namespace Bida.DTO
     public partial class Model : DbContext
     {
         public Model()
-            : base("name=BD")
+            : base("name=Model")
         {
         }
 
-        public virtual DbSet<BAN> BANs { get; set; }
-        public virtual DbSet<BIENLAI> BIENLAIs { get; set; }
-        public virtual DbSet<CHITIETBIENLAI> CHITIETBIENLAIs { get; set; }
-        public virtual DbSet<KHACHHANG> KHACHHANGs { get; set; }
-        public virtual DbSet<NHANVIEN> NHANVIENs { get; set; }
-        public virtual DbSet<QUANLI> QUANLIs { get; set; }
+        public virtual DbSet<BAN> BAN { get; set; }
+        public virtual DbSet<BIENLAI> BIENLAI { get; set; }
+        public virtual DbSet<CHITIETBIENLAI> CHITIETBIENLAI { get; set; }
+        public virtual DbSet<KHACHHANG> KHACHHANG { get; set; }
+        public virtual DbSet<NHANVIEN> NHANVIEN { get; set; }
+        public virtual DbSet<QUANLI> QUANLI { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<BAN>()
-                .HasMany(e => e.BIENLAIs)
+                .HasMany(e => e.BIENLAI)
                 .WithRequired(e => e.BAN)
                 .WillCascadeOnDelete(false);
 
@@ -55,7 +55,7 @@ namespace Bida.DTO
                 .IsUnicode(false);
 
             modelBuilder.Entity<NHANVIEN>()
-                .HasMany(e => e.BIENLAIs)
+                .HasMany(e => e.BIENLAI)
                 .WithRequired(e => e.NHANVIEN)
                 .WillCascadeOnDelete(false);
 

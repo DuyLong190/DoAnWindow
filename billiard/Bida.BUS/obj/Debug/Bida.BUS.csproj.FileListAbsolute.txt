@@ -19,3 +19,11 @@ C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.BUS\obj\Debug\Bi
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.BUS\obj\Debug\Bida.BUS.csproj.Up2Date
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.BUS\obj\Debug\Bida.BUS.dll
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida.BUS\obj\Debug\Bida.BUS.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.BUS.dll.config
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.BUS.dll
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.BUS.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.BUS\obj\Debug\Bida.BUS.csproj.AssemblyReference.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.BUS\obj\Debug\Bida.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.BUS\obj\Debug\Bida.BUS.csproj.Up2Date
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.BUS\obj\Debug\Bida.BUS.dll
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida.BUS\obj\Debug\Bida.BUS.pdb

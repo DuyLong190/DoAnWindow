@@ -46,3 +46,22 @@ C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.c
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.exe
 C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.exe.config
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.exe
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\bin\Bida.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmBan.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmMain.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.exe
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.ThucAn.resources
+C:\Users\Quang\Desktop\Demo_BIDA\DoAnWindow\billiard\Bida\obj\Debug\Bida.ThucAn2.resources

@@ -35,8 +35,7 @@ namespace Bida.DTO
         public virtual KHACHHANG KHACHHANG { get; set; }
 
         public virtual NHANVIEN NHANVIEN { get; set; }
-
-        public BIENLAI (NHANVIEN nhanvien, BAN ban, KHACHHANG khachhang, DateTime? gioBD, DateTime? gioKT, string thoiGian, string tongTien)
+        public BIENLAI(NHANVIEN nhanvien, BAN ban, KHACHHANG khachhang, DateTime? gioBD, DateTime? gioKT, string thoiGian, string tongTien)
         {
             NHANVIEN = nhanvien;
             BAN = ban;
